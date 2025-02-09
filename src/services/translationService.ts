@@ -1,6 +1,6 @@
 import { GoogleGenerativeAI } from '@google/generative-ai';
 
-const genAI = new GoogleGenerativeAI('AIzaSyBe2nbxp1NYpt5BTD0yiIkPfXCYvQ-GHHo');
+const genAI = new GoogleGenerativeAI('your_gemini_key');
 
 const languageMap = {
   hi: 'Hindi',
