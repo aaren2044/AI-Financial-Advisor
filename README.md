@@ -56,29 +56,55 @@ Automated Financial Updates – Regular updates on financial advice, IPOs, stock
 
 Telegram Bot Integration – Provides simplified document uploads and easy-to-understand financial insights.
 
+Login
+
 ![Login](<Screenshot 2025-02-09 193244-1.png>)
+
+Dashboard
 
 ![Dashboard](<Screenshot 2025-02-09 193444.png>)
 
+Learning Modules
+
 ![Learning Modules](<Screenshot 2025-02-09 193453.png>)
+
+Financial Literacy Model
 
 ![Financial Literacy Model](<Screenshot 2025-02-09 193515.png>)
 
+Video-Quiz
+
 ![Video-Quiz](<Screenshot 2025-02-09 193521.png>)
+
+Financial Tools
 
 ![Financial Tools](<Screenshot 2025-02-09 193629.png>)
 
+Budget Goal Tracker
+
 ![Budget Goal Tracker](<Screenshot 2025-02-09 193530.png>)
+
+Loan Eligibility Calculator
 
 ![Loan Eligibility Calculator](<Screenshot 2025-02-09 193538.png>)
 
+Smart Savings Planner
+
 ![Smart Savings Planner](<Screenshot 2025-02-09 193550.png>)
+
+Smart Investment Guide
 
 ![Smart Investment Guide](<Screenshot 2025-02-09 193558.png>)
 
+Community & Mentorship
+
 ![Community & Mentorship](<Screenshot 2025-02-09 193610.png>)
 
+Goals Dashboard
+
 ![Goals Dashboard](<Screenshot 2025-02-09 193620.png>)
+
+News
 
 ![News](<Screenshot 2025-02-09 193636.png>)
 
